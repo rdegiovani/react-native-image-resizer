@@ -77,3 +77,8 @@ outputPath | The resized image path. If null, resized image will be stored in ca
  * [react-native-numberpicker-dialog](https://github.com/bamlab/react-native-numberpicker-dialog)
  * [react-native-animated-picker](https://github.com/bamlab/react-native-animated-picker)
  * [cordova-plugin-native-routing](https://github.com/bamlab/cordova-plugin-native-routing)
+
+
+## Notes
+
+This repository was created to solve conflict errors on my project
